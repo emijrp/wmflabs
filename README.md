@@ -1,6 +1,6 @@
 wmflabs
 =======
 
-Some basic scripts for the Wikimedia Labs
+Some basic scripts for the Wikimedia Labs.
 
-* queryalldb.py: run a query over all Wikimedia projects databases
+* **queryalldb.py**: run a query over all Wikimedia projects databases
